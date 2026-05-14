@@ -40,6 +40,11 @@ We plan to release:
 
 The citation will be added after the paper or preprint is available.
 
+## Acknowledgements
+
+Our code is developed on top of
+[Agent-Attention](https://github.com/leaplabthu/agent-attention).
+
 ## Contact
 
-For questions, please open an issue after the code release.
+For questions, please contact lytong@tju.edu.cn.
