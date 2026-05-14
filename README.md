@@ -44,6 +44,8 @@ The citation will be added after the paper or preprint is available.
 
 Our code is developed on top of
 [Agent-Attention](https://github.com/leaplabthu/agent-attention).
+This work was partially supported by computational resources from TPU Research
+Cloud (TRC).
 
 ## Contact
 
