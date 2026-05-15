@@ -38,7 +38,18 @@ We plan to release:
 
 ## Citation
 
-The citation will be added after the paper or preprint is available.
+Paper: [arXiv:2605.14913](https://arxiv.org/abs/2605.14913)
+
+If you find this work useful, please cite:
+
+```bibtex
+@article{li2026representative,
+  title={Representative Attention For Vision Transformers},
+  author={Li, Yuntong and Wang, Hainuo and Liu, Hengxing and Li, Mingjia and Guo, Xiaojie},
+  journal={arXiv preprint arXiv:2605.14913},
+  year={2026}
+}
+```
 
 ## Acknowledgements
 
